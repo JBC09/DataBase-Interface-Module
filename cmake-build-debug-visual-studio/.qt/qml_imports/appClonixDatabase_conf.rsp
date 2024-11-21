@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/CLX/Documents/ClonixDatabase
+-cmake-output
+-output-file
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/.qt/qml_imports/appClonixDatabase_conf.cmake
+-importPath
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/ClonixDatabase
+-importPath
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio
+-importPath
+C:/Qt/6.8.0/msvc2022_64/qml
+-qrcFiles
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/.qt/rcc/qmake_ClonixDatabase.qrc
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/.qt/rcc/appClonixDatabase_raw_qml_0.qrc

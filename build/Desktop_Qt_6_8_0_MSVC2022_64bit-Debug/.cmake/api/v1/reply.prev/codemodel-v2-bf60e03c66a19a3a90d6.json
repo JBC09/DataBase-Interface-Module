@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-02ba08442bf75a8a9cf4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ClonixDatabase",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-fb93f230448a5916f41c.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ed01fd0d92684e57a5bd.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-f88251b270573e3310a0.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a634647acb549fb4d596.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-038ec265802f20c4aeed.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase-Debug-cf8dfac5843de612dbfe.json",
+					"name" : "appClonixDatabase",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_autogen-Debug-e0919ce2a4b0c5abf3d8.json",
+					"name" : "appClonixDatabase_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_autogen_timestamp_deps-Debug-ed5856b7c789a1047341.json",
+					"name" : "appClonixDatabase_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_qmlimportscan-Debug-3409ac80ea9cc0bfaa0c.json",
+					"name" : "appClonixDatabase_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_qmllint-Debug-b2bf5d27bbcb1c15d669.json",
+					"name" : "appClonixDatabase_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_qmllint_json-Debug-926c9fc7ca7940f7182b.json",
+					"name" : "appClonixDatabase_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_qmllint_module-Debug-278e39c00eedad2f16a5.json",
+					"name" : "appClonixDatabase_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_qmltyperegistration-Debug-f40f5269d0f2ab77f366.json",
+					"name" : "appClonixDatabase_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClonixDatabase_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClonixDatabase_tooling-Debug-81b423e847f3b942e8d2.json",
+					"name" : "appClonixDatabase_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appClonixDatabase_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appClonixDatabase_aotstats_targets-Debug-3eff70def4a4130433ec.json",
+					"name" : "module_appClonixDatabase_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/CLX/Documents/ClonixDatabase/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/CLX/Documents/ClonixDatabase"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

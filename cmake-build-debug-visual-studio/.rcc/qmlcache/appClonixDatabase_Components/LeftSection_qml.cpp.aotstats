@@ -1,0 +1,52 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 313,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 25
+                    }
+                ],
+                "filepath": "C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/LeftSection.qml"
+            }
+        ],
+        "moduleId": "ClonixDatabase(appClonixDatabase)"
+    }
+]

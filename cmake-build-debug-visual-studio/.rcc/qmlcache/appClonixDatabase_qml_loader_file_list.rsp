@@ -1,0 +1,10 @@
+--resource
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/.qt/rcc/qmake_ClonixDatabase.qrc
+--resource
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/.qt/rcc/appClonixDatabase_raw_qml_0.qrc
+/qt/qml/ClonixDatabase/Main.qml
+/qt/qml/ClonixDatabase/Components/InputLabel.qml
+/qt/qml/ClonixDatabase/Components/LeftSection.qml
+/qt/qml/ClonixDatabase/Components/RightSection.qml
+/qt/qml/ClonixDatabase/Components/TextFieldCustom.qml
+/qt/qml/ClonixDatabase/Components/ButtonCustom.qml

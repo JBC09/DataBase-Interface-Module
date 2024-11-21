@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ClonixDatabase">
+    <file alias="qmldir">C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug/ClonixDatabase/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot access value for name labelText",
+                        "functionName": "text",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 35
+                    }
+                ],
+                "filepath": "C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/ButtonCustom.qml"
+            }
+        ],
+        "moduleId": "ClonixDatabase(appClonixDatabase)"
+    }
+]

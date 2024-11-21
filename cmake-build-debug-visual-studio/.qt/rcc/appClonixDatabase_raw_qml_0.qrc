@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/ClonixDatabase/">
+    <file alias="Main.qml">C:/Users/CLX/Documents/ClonixDatabase/Main.qml</file>
+    <file alias="Components/InputLabel.qml">C:/Users/CLX/Documents/ClonixDatabase/Components/InputLabel.qml</file>
+    <file alias="Components/LeftSection.qml">C:/Users/CLX/Documents/ClonixDatabase/Components/LeftSection.qml</file>
+    <file alias="Components/RightSection.qml">C:/Users/CLX/Documents/ClonixDatabase/Components/RightSection.qml</file>
+    <file alias="Components/TextFieldCustom.qml">C:/Users/CLX/Documents/ClonixDatabase/Components/TextFieldCustom.qml</file>
+    <file alias="Components/ButtonCustom.qml">C:/Users/CLX/Documents/ClonixDatabase/Components/ButtonCustom.qml</file>
+  </qresource>
+</RCC>
+

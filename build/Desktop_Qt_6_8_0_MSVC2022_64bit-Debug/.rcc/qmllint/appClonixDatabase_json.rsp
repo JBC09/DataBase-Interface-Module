@@ -1,0 +1,17 @@
+--bare
+-I
+C:/Users/CLX/Documents/ClonixDatabase/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug
+-I
+C:/Qt/6.8.0/msvc2022_64/qml
+--resource
+C:/Users/CLX/Documents/ClonixDatabase/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qmake_ClonixDatabase.qrc
+--resource
+C:/Users/CLX/Documents/ClonixDatabase/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/appClonixDatabase_raw_qml_0.qrc
+C:/Users/CLX/Documents/ClonixDatabase/Main.qml
+C:/Users/CLX/Documents/ClonixDatabase/Components/InputLabel.qml
+C:/Users/CLX/Documents/ClonixDatabase/Components/LeftSection.qml
+C:/Users/CLX/Documents/ClonixDatabase/Components/RightSection.qml
+C:/Users/CLX/Documents/ClonixDatabase/Components/TextFieldCustom.qml
+C:/Users/CLX/Documents/ClonixDatabase/Components/ButtonCustom.qml
+--json
+C:/Users/CLX/Documents/ClonixDatabase/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/appClonixDatabase_qmllint.json

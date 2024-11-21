@@ -1,0 +1,10 @@
+--bare
+-I
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug
+-I
+C:/Qt/6.8.0/msvc2022_64/qml
+--resource
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug/.qt/rcc/qmake_ClonixDatabase.qrc
+--resource
+C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug/.qt/rcc/appClonixDatabase_raw_qml_0.qrc
+C:/Users/CLX/Documents/ClonixDatabase/Main.qml

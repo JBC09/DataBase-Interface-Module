@@ -1,0 +1,10 @@
+module ClonixDatabase
+typeinfo appClonixDatabase.qmltypes
+prefer :/qt/qml/ClonixDatabase/
+Main 1.0 Main.qml
+InputLabel 1.0 Components/InputLabel.qml
+LeftSection 1.0 Components/LeftSection.qml
+RightSection 1.0 Components/RightSection.qml
+TextFieldCustom 1.0 Components/TextFieldCustom.qml
+ButtonCustom 1.0 Components/ButtonCustom.qml
+

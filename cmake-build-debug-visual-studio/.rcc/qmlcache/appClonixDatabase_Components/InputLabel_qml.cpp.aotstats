@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "Cannot access value for name titles",
+                        "functionName": "text",
+                        "line": 20
+                    }
+                ],
+                "filepath": "C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/InputLabel.qml"
+            }
+        ],
+        "moduleId": "ClonixDatabase(appClonixDatabase)"
+    }
+]

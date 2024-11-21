@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 56
+                    }
+                ],
+                "filepath": "C:/Users/CLX/Documents/ClonixDatabase/cmake-build-debug-visual-studio/Main.qml"
+            }
+        ],
+        "moduleId": "ClonixDatabase(appClonixDatabase)"
+    }
+]
